@@ -1,0 +1,38 @@
+:root {
+  --primary-background: #d0efb1;
+  --secondary-background: #A6BF8D;
+}
+
+body {
+  background: var(--primary-background);
+}
+
+img {
+  display: flex;
+  height: 125px;
+  justify-items: flex-end;
+}
+
+header {
+  padding: 10px;
+  background: var(--secondary-background);
+}
+
+ul {
+  display: flex;
+  justify-content: space-around;
+  /* justify-content: center; */
+  flex-direction: row;
+  list-style: none;
+
+}
+
+li {
+  list-style: none;
+  font-size: 20px;
+}
+
+/* .ishadden {
+    height: 0px;
+    font-size: 0px;
+  } */
