@@ -1,38 +1,55 @@
 :root {
   --primary-background: #d0efb1;
-  --secondary-background: #A6BF8D;
+  --secondary-background: #a6bf8d;
 }
 
 body {
   background: var(--primary-background);
 }
 
+h1 {
+  font-family: 'Coda Caption', sans-serif;
+  text-align: center;
+}
+
 img {
-  display: flex;
+  /* font-family: 'Coda Caption', sans-serif;display: flex; */
   height: 125px;
   justify-items: flex-end;
 }
 
 header {
+
   padding: 10px;
-  background: var(--secondary-background);
+  /* background: var(--secondary-background); */
+  background-image: url("../img/forestparkimagebig.jpg") ;
+  color: white;
 }
 
 ul {
   display: flex;
-  justify-content: space-around;
-  /* justify-content: center; */
+  justify-content: space-between;
   flex-direction: row;
   list-style: none;
-
 }
 
 li {
   list-style: none;
   font-size: 20px;
+  opacity: 0.5;
 }
 
-/* .ishadden {
-    height: 0px;
-    font-size: 0px;
-  } */
+p {
+  border: 2px dotted black;
+
+}
+
+@media screen and (min-width: 768px) {
+  .hamburger--mobile,
+  li {
+    font-size: 0;
+    height: 0;
+  }
+}
+
+@media screen and (min-width: )
