@@ -1,47 +1,54 @@
 :root {
-  --primary-background: #d0efb1;
-  --secondary-background: #a6bf8d;
+  --primary-background: #d0efb1f3;
+  --secondary-background: #a6bf8dde;
+  --nav-background: #3b35048c;
+  --primary-text: #07200f;
+  --visi-text: #ffffff;
+  --base-spacing: 5px;
+}
+
+html {
+  background-image: url("../img/forestparkimagebig.jpg");
 }
 
 body {
-  background: var(--primary-background);
+  /* background: var(--primary-background); */
 }
 
 h1 {
-  font-family: 'Coda Caption', sans-serif;
+  font-family: "Coda Caption", sans-serif;
   text-align: center;
 }
 
-img {
-  /* font-family: 'Coda Caption', sans-serif;display: flex; */
-  height: 125px;
-  justify-items: flex-end;
+header {
+  padding: calc(var(--base-spacing) * 2);
+  background: var(--secondary-background);
+  color: var(--visi-text);
 }
 
-header {
-
-  padding: 10px;
-  /* background: var(--secondary-background); */
-  background-image: url("../img/forestparkimagebig.jpg") ;
-  color: white;
+div {
+  margin: calc(var(--base-spacing)*13);
+  display: flex;
 }
 
 ul {
+  background: var(--secondary-background);
   display: flex;
   justify-content: space-between;
-  flex-direction: row;
   list-style: none;
 }
 
 li {
   list-style: none;
-  font-size: 20px;
-  opacity: 0.5;
+  font-size: calc(var(--base-spacing) * 3.2);
 }
 
 p {
-  border: 2px dotted black;
-
+  background: var(--primary-background);
+  opacity: 0.72;
+  font-weight: bolder;
+  color: var(--primary-text);
+  padding: calc(var(--base-spacing) * 6);
 }
 
 @media screen and (min-width: 768px) {
@@ -52,4 +59,4 @@ p {
   }
 }
 
-@media screen and (min-width: )
+@media screen and (min-width: );
