@@ -1,5 +1,5 @@
 :root {
-  --primary-background: #d0efb1f3;
+  --primary-background: #c4b1eff3;
   --secondary-background: #a6bf8dde;
   --nav-background: #3b35048c;
   --primary-text: #07200f;
@@ -9,6 +9,8 @@
 
 html {
   background-image: url("../img/forestparkimagebig.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 body {
@@ -32,7 +34,7 @@ div {
 }
 
 p {
-  background: var(--primary-background);
+  background: var(--visi-text);
   opacity: 0.72;
   font-weight: bolder;
   color: var(--primary-text);
@@ -44,9 +46,21 @@ li {
   height: 0px;
 }
 
+.fas {
+  font-size: 30px;
+}
+
+nav {
+
+}
+
 /* Media Queries for tablet */
 
 @media screen and (min-width: 425px) {
+  .fas {
+    font-size: 0px;
+  }
+
   .hamburger--tablet,
   li {
     list-style: none;
@@ -64,6 +78,10 @@ li {
 /* Media queries for desktop */
 
 @media screen and (min-width: 1440px) {
+  .fas {
+    font-size: 0px;
+  }
+
   li {
     list-style: none;
     font-size: calc(var(--base-spacing) * 3.2);
