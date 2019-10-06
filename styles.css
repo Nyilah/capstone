@@ -48,6 +48,8 @@ li {
 
 .fas {
   font-size: 30px;
+  transform: translateX(calc(100vw - var(--base-spacing) * 15));
+  position: absolute;
 }
 
 nav {
