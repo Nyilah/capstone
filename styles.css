@@ -10,7 +10,6 @@
 html {
   background-image: url("../img/forestparkimagebig.jpg");
   background-repeat: no-repeat;
-  background-size: cover;
 }
 
 body {
@@ -29,7 +28,7 @@ header {
 }
 
 div {
-  margin: calc(var(--base-spacing) * 13);
+  margin: calc(var(--base-spacing) * 5);
   display: flex;
 }
 
@@ -39,6 +38,7 @@ p {
   font-weight: bolder;
   color: var(--primary-text);
   padding: calc(var(--base-spacing) * 6);
+  font-size: calc(var(--base-spacing) * 3.6);
 }
 
 li {
@@ -66,7 +66,7 @@ nav {
   .hamburger--tablet,
   li {
     list-style: none;
-    font-size: calc(var(--base-spacing) * 3.2);
+    font-size: calc(var(--base-spacing) * 3.4);
   }
 
   .hamburger--tablet {
@@ -86,7 +86,7 @@ nav {
 
   li {
     list-style: none;
-    font-size: calc(var(--base-spacing) * 3.2);
+    font-size: calc(var(--base-spacing) * 3.4);
   }
 
   .hamburger--tablet {
