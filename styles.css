@@ -1,7 +1,7 @@
 :root {
   --primary-background: #c4b1eff3;
   --secondary-background: #a6bf8dde;
-  --nav-background: #3b35048c;
+  --nav-background: #556b2f;
   --primary-text: #07200f;
   --visi-text: #ffffff;
   --base-spacing: 5px;
@@ -19,6 +19,12 @@ body {
 h1 {
   font-family: "Coda Caption", sans-serif;
   text-align: center;
+}
+
+nav {
+  padding: calc(var(--base-spacing) * 2);
+  background: var(--nav-background);
+  color: var(--visi-text);
 }
 
 header {
@@ -53,7 +59,7 @@ li {
 }
 
 nav {
-
+min-height: 25px;
 }
 
 /* Media Queries for tablet */
