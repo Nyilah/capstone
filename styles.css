@@ -50,6 +50,7 @@ p {
 li {
   font-size: 0px;
   height: 0px;
+  color: var(--visi-text);
 }
 
 .fas {
