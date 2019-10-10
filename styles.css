@@ -63,6 +63,19 @@ nav {
 min-height: 25px;
 }
 
+footer {
+  background: var(--visi-text);
+  opacity: 0.72;
+  font-weight: bolder;
+  color: var(--primary-text);
+  padding: calc(var(--base-spacing) * 6);
+}
+
+.email {
+  display: flex;
+justify-content: space-around;
+}
+
 /* Media Queries for tablet */
 
 @media screen and (min-width: 425px) {
