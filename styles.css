@@ -13,10 +13,6 @@ html {
   background-repeat: no-repeat;
 }
 
-body {
-  /* background: var(--primary-background); */
-}
-
 h1 {
   font-family: "Coda Caption", sans-serif;
   text-align: center;
@@ -35,8 +31,9 @@ header {
 }
 
 div {
-  margin: calc(var(--base-spacing) * 5);
+  /* margin: calc(var(--base-spacing) * 20); */
   display: flex;
+
 }
 
 p {
@@ -100,6 +97,14 @@ footer {
 .email {
   display: flex;
 justify-content: space-around;
+}
+
+.main-home {
+  display: flex;
+}
+
+.top-five {
+  color:  white;
 }
 
 /* SEARCH PAGE CSS */
