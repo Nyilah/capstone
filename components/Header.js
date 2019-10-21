@@ -1,5 +1,6 @@
-export default function() {
-return` <h1>
+export default function(state) {
+  return `<h1>
   ${state.heading}
 </h1>
-`};
+`;
+}
