@@ -1,5 +1,5 @@
 export default {
-  heading: `STL PARKS`,
+  heading: 'STL PARKS',
   nav: `<nav>
   <span class="fas fa-bars"></span>
   <ul class="hamburger--mobile hamburger--tablet nav--desktop">
