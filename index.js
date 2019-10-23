@@ -9,6 +9,13 @@ function render (st = state.Home) {
   ${Main(st)}
   ${Footer()}
   `;
+
+  const links = document.querySelectorAll("nav a");
+
+  links.forEach(link => link.addEventListener("click", event => {
+    event.preventDefault();
+    render(state[event.target.textContent]);
+  }));
 }
 render();
 
