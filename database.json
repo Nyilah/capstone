@@ -1,0 +1,133 @@
+[
+  {
+    "parkName": "Missouri Botanical Garden",
+    "phoneNumber": "314-577-5100",
+    "ParkAdress": "4344 Shaw Blvd, St. Louis, MO 63110",
+    "price": "
+            Adult non-resident = $12
+            Adult Stlouis City/County resident = $6
+            Children 12under = Free",
+    "parkHours": "
+      Monday	  9AM–5PM
+      Tuesday   9AM–5PM
+      Wednesday	9AM–5PM
+      Thursday	9AM–5PM
+      Friday	  9AM–5PM
+      Saturday 	9AM–5PM
+      Sunday	  9AM–5PM"
+  },
+  {
+    "parkName": "Lone Elk Park",
+    "phoneNumber": "314-615-4386",
+    "ParkAdress": "1 Lone Elk Park Rd, Valley Park, MO 63088",
+    "price": "Free",
+    "parkHours" {
+      Monday:	   "8AM–5PM"
+      Tuesday	   8AM–5PM,
+      Wednesday	 8AM–5PM,
+      Thursday	 8AM–5PM,
+      Friday	   8AM–5PM,
+      Saturday	 8AM–5PM
+      Sunday	   8AM–5PM,
+},
+    "water":
+  },
+  {
+    "parkName": "Tower Grove Park ",
+    "phoneNumber": "314-771-2679",
+    "ParkAdress": "4257 Northeast Dr, St. Louis, MO 63110",
+    "price": "Free",
+    "parkHours": "
+      Monday	    5AM–10PM
+      Tuesday	    5AM–10PM
+      Wednesday	  5AM–10PM
+      Thursday	  5AM–10PM
+      Friday	    5AM–10PM
+      Saturday	  5AM–10PM
+      Sunday	    5AM–10PM"
+  },
+  {
+    "parkName": "Laumeier Sculpture Park ",
+    "phoneNumber": "314-615-5278",
+    "ParkAdress": "12580 Rott Rd, St. Louis, MO 63127",
+    "price": "Free",
+    "parkHours": "
+      Monday	    8AM–5:30PM
+      Tuesday	    8AM–5:30PM
+      Wednesday	  8AM–5:30PM
+      Thursday	  8AM–5:30PM
+      Friday	    8AM–5:30PM
+      Saturday	  8AM–5:30PM
+      Sunday	    8AM–5:30PM"
+  },
+  {
+    "parkName": "Kirkwood Park",
+    "phoneNumber": "314-822-5855",
+    "ParkAdress": "111 S Geyer Rd, Kirkwood, MO 63122",
+    "price": " ",
+    "parkHours": "
+      Monday	    6AM–10PM
+      Tuesday	    6AM–10PM
+      Wednesday	  6AM–10PM
+      Thursday	  6AM–10PM
+      Friday	    6AM–10PM
+      Saturday	  6AM–10PM
+      Sunday	    6AM–10PM"
+  },
+  {
+    "parkName": "Compton Hill Reservoir Park",
+    "phoneNumber": "314-552-9000",
+    "ParkAdress": "1700 S Grand Blvd, St. Louis, MO 63104",
+    "price": "Free",
+    "parkHours": "
+      Monday	    6AM–10PM
+      Tuesday	    6AM–10PM
+      Wednesday	  6AM–10PM
+      Thursday	  6AM–10PM
+      Friday	    6AM–10PM
+      Saturday    6AM–10PM
+      Sunday	    6AM–10PM"
+  },
+  {
+    "parkName": "Turtle Playground",
+    "phoneNumber": "314-289-5300",
+    "ParkAdress": "",
+    "price": "Free",
+    "parkHours": "
+      Monday	    6AM–10PM
+      Tuesday	    6AM–10PM
+      Wednesday	  6AM–10PM
+      Thursday	  6AM–10PM
+      Friday	    6AM–10PM
+      Saturday	  6AM–10PM
+      Sunday	    6AM–10PM"
+  },
+  {
+    "parkName": "Blake Snyder Park",
+    "phoneNumber": "314-615-4386",
+    "ParkAdress": "9801 Green Park Rd, St. Louis, MO 63123",
+    "price": "Free",
+    "parkHours": " "
+  },
+  {
+    "parkName": "Deer Creek Park",
+    "phoneNumber": "314=645-3600",
+    "ParkAdress": "3200 N Laclede Station Rd, Maplewood, MO 63143",
+    "price": "Free",
+    "parkHours": "
+      Monday	     7AM–10PM
+      Tuesday	     7AM–10PM
+      Wednesday	   7AM–10PM
+      Thursday	   7AM–10PM
+      Friday	     7AM–10PM
+      Saturday	   7AM–10PM
+      Sunday	     7AM–10PM"
+  },
+  {
+    "parkName": "Aquaport",
+    "phoneNumber": "314-738-2599",
+    "ParkAdress": "2344 McKelvey Rd, Maryland Heights, MO 63043",
+    "price": "",
+    "parkHours": "11am - 7pm"
+  }
+]

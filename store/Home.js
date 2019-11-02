@@ -9,7 +9,7 @@ export default {
     <li><a href="./search/index.html">Search</a></li>
   </ul>
 </nav>`,
-  main: `<main class="main-home">
+  main: `<main>
   <div class ="home-p">
     <p>
       Looking to spend some time at the park? Explore St. Louis and all the

@@ -2,6 +2,8 @@ import {Header, Nav, Main, Footer} from "./components";
 
 import * as state from "./store";
 
+import { auth, db } from "./firebase"
+
 function render (st = state.Home) {
   document.querySelector('#root').innerHTML = `
   ${Header(st)}

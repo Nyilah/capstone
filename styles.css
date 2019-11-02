@@ -9,13 +9,30 @@
 }
 
 html {
-  /* background-image: url("../forestparkimageresize.jpg"); */
+  background-image: url("./forestparkimageresize.jpg");
   background-repeat: no-repeat;
+}
+
+body {
+  margin: 0;
+  height: 100vh;
 }
 
 h1 {
   font-family: "Coda Caption", sans-serif;
   text-align: center;
+  margin-top: 0px;
+  flex-grow: 0;
+}
+
+h2 {
+    text-align: center;
+}
+
+#root {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
 }
 
 nav {
@@ -28,6 +45,7 @@ header {
   padding: calc(var(--base-spacing) * 2);
   background: var(--secondary-background);
   color: var(--visi-text);
+  flex-grow: 0;
 }
 
 div {
@@ -43,6 +61,7 @@ p {
   color: var(--primary-text);
   padding: calc(var(--base-spacing) * 6);
   font-size: calc(var(--base-spacing) * 3.6);
+  width: 501px;
 }
 
 nav a:link {
@@ -92,6 +111,7 @@ footer {
   font-weight: bolder;
   color: var(--primary-text);
   padding: calc(var(--base-spacing) * 6);
+  flex-grow: 0;
 }
 
 .email {
@@ -99,12 +119,14 @@ footer {
 justify-content: space-around;
 }
 
-.main-home {
+main {
   display: flex;
+  flex-grow: 1;
 }
 
 .top-five {
   color:  white;
+  width: 571px;
 }
 
 /* SEARCH PAGE CSS */

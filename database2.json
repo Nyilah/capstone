@@ -1,0 +1,476 @@
+[
+  {
+    "parkName": "Missouri Botanical Garden",
+    "phoneNumber": "314-577-5100",
+    "Adress": "4344 Shaw Blvd, St. Louis, MO 63110",
+    "Price": {
+      "Adult": "non-resident = $12",
+      "adultResident": "St.Louis City/County resident = $6",
+      "Children": "12under = Free"
+    },
+    "WaterPark": "false",
+    "hours": {
+      "Monday": "9AM–5PM",
+      "Tuesday": "9AM–5PM",
+      "Wednesday": "9AM–5PM",
+      "Thursday": "9AM–5PM",
+      "Friday": "9AM–5PM",
+      "Saturday": "9AM–5PM",
+      "Sunday": "9AM–5PM"
+    }
+  },
+  {
+    "parkName": "Lone Elk Park",
+    "phoneNumber": "314-615-4386",
+    "Adress": "1 Lone Elk Park Rd, Valley Park, MO 63088",
+    "Price": "Free",
+    "WaterPark": "false",
+    "hours": {
+      "Monday": "8AM–5PM",
+      "Tuesday": "8AM–5PM",
+      "Wednesday": "8AM–5PM",
+      "Thursday": "8AM–5P",
+      "Friday": "8AM–5P",
+      "Saturday": "8AM–5P",
+      "Sunday": "8AM–5P"
+    }
+  },
+  {
+    "parkName": "Tower Grove Park",
+    "phoneNumber": "314-771-2679",
+    "Adress": "4257 Northeast Dr, St. Louis, MO 63110",
+    "Price": "Free",
+    "WaterPark": "false",
+    "hours": {
+      "Monday": "5AM–10PM",
+      "Tuesday": "5AM–10PM",
+      "Wednesday": "5AM–10PM",
+      "Thursday": "5AM–10PM",
+      "Friday": "5AM–10PM",
+      "Saturday": "5AM–10PM",
+      "Sunday": "5AM–10PM"
+    }
+  },
+  {
+    "parkName": "Laumeier Sculpture Park",
+    "phoneNumber": "314-615-5278",
+    "Adress": "12580 Rott Rd, St. Louis, MO 63127",
+    "Price": "Free",
+    "WaterPark": "false",
+    "hours": {
+      "Monday": "8AM–5:30PM",
+      "Tuesday": "8AM–5:30PM",
+      "Wednesday": "8AM–5:30PM",
+      "Thursday": "8AM–5:30PM",
+      "Friday": "8AM–5:30PM",
+      "Saturday": "8AM–5:30PM",
+      "Sunday": "8AM–5:30PM"
+    }
+  },
+  {
+    "parkName": "Kirkwood Park",
+    "phoneNumber": "314-822-5855",
+    "Adress": "111 S Geyer Rd, Kirkwood, MO 63122",
+    "Price": {
+      "Adult": "",
+      "adultResident": "",
+      "Children": ""
+    },
+    "WaterPark": "true",
+    "hours": {
+      "Monday": "6AM–10PM",
+      "Tuesday": "6AM–10PM",
+      "Wednesday": "6AM–10PM",
+      "Thursday": "6AM–10PM",
+      "Friday": "6AM–10PM",
+      "Saturday": "6AM–10PM",
+      "Sunday": "6AM–10PM"
+    }
+  },
+  {
+    "parkName": "Compton Hill Reservoir Park",
+    "phoneNumber": "314-552-9000",
+    "Adress": "1700 S Grand Blvd, St. Louis, MO 63104",
+    "Price": "Free",
+    "WaterPark": "false",
+    "hours": {
+      "Monday": "6AM–10PM",
+      "Tuesday": "6AM–10PM",
+      "Wednesday": "6AM–10PM",
+      "Thursday": "6AM–10PM",
+      "Friday": "6AM–10PM",
+      "Saturday": "6AM–10PM",
+      "Sunday": "6AM–10PM"
+    }
+  },
+  {
+    "parkName": "Turtle Playground",
+    "phoneNumber": "314-289-5300",
+    "Adress": "",
+    "Price": "Free",
+    "WaterPark": "false",
+    "hours": {
+      "Monday": "6AM–10PM",
+      "Tuesday": "6AM–10PM",
+      "Wednesday": "6AM–10PM",
+      "Thursday": "6AM–10PM",
+      "Friday": "6AM–10PM",
+      "Saturday": "6AM–10PM",
+      "Sunday": "6AM–10PM"
+    }
+  },
+  {
+    "parkName": "Blake Snyder Park",
+    "phoneNumber": "314-615-4386",
+    "Adress": "9801 Green Park Rd, St. Louis, MO 63123",
+    "Price": "Free",
+    "WaterPark": "false",
+    "hours": {
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": "",
+      "Sunday": ""
+    }
+  },
+  {
+    "parkName": "Deer Creek Park",
+    "phoneNumber": "314=645-3600",
+    "Adress": "3200 N Laclede Station Rd, Maplewood, MO 63143",
+    "Price": "Free",
+    "WaterPark": "false",
+    "hours": {
+      "Monday": "7AM–10PM",
+      "Tuesday": "7AM–10PM",
+      "Wednesday": "7AM–10PM",
+      "Thursday": "7AM–10PM",
+      "Friday": "7AM–10PM",
+      "Saturday": "7AM–10PM",
+      "Sunday": "7AM–10PM"
+    }
+  },
+  {
+    "parkName": "Aquaport",
+    "phoneNumber": "314-738-2599",
+    "Adress": "2344 McKelvey Rd, Maryland Heights, MO 63043",
+    "Price": {
+      "Adult": "",
+      "adultResident": "",
+      "Children": ""
+    },
+    "WaterPark": "true",
+    "hours": {
+      "Monday": "11AM-7PM",
+      "Tuesday": "11AM-7PM",
+      "Wednesday": "11AM-7PM",
+      "Thursday": "11AM-7PM",
+      "Friday": "11AM-7PM",
+      "Saturday": "11AM-7PM",
+      "Sunday": "11AM-7PM"
+    }
+  },
+  {
+    "parkName": "Manchester Aquatic Center",
+    "phoneNumber": "636-391-6326 ext. 405",
+    "Adress": "359 Old Meramec Station Rd, Manchester, MO 63021",
+    "Price": {
+      "Adult": "non-resident = $12",
+      "adultResident": "St.Louis City/County resident = $6",
+      "Children": "12under = Free"
+    },
+    "WaterPark": "true",
+    "hours": {
+      "Monday": " Closed",
+      "Tuesday": " ClosedM",
+      "Wednesday": " Closed",
+      "Thursday": " Closed",
+      "Friday": " Closed",
+      "Saturday": "11AM–7:30PM",
+      "Sunday": "12PM–7:30PM"
+    }
+  },
+  {
+    "parkName": "City Garden",
+    "phoneNumber": "314-241-3337",
+    "Adress": "801 Market St, St. Louis, MO 63101",
+    "Price": "Free",
+    "WaterPark": "false",
+    "hours": {
+      "Monday": "6AM–10PM",
+      "Tuesday": "6AM–10PM",
+      "Wednesday": "6AM–10PM",
+      "Thursday": "6AM–10PM",
+      "Friday": "6AM–10PM",
+      "Saturday": "6AM–10PM",
+      "Sunday": "6AM–10PM"
+    }
+  },
+  {
+    "parkName": "Meeting Of the Waters",
+    "phoneNumber": " ",
+    "Adress": "20 S 20th St, St. Louis, MO 63103",
+    "Price": "Free",
+    "WaterPark": "false",
+    "hours": {
+      "Monday": "Open",
+      "Tuesday": "Open",
+      "Wednesday": "Open",
+      "Thursday": "Open",
+      "Friday": "Open",
+      "Saturday": "Open",
+      "Sunday": "Open"
+    }
+  },
+  {
+    "parkName": "Chesterfield Central Park",
+    "phoneNumber": "636-537-4000",
+    "Adress": "16365 Lydia Hill Drive Chesterfield, MO 63017",
+    "Price": {
+      "Adult": "",
+      "adultResident": "",
+      "Children": ""
+    },
+    "WaterPark": "true",
+    "hours": {
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": "",
+      "Sunday": ""
+    }
+  },
+  {
+    "parkName": "Ellen Clark Sculpture Park",
+    "phoneNumber": "314-977-3975",
+    "Adress": "1 N Grand Blvd, St. Louis, MO 6310",
+    "Price": "Free",
+    "WaterPark": "false",
+    "hours": {
+      "Monday": "Closed",
+      "Tuesday": "Closed",
+      "Wednesday": "Closed",
+      "Thursday": "Open",
+      "Friday": "Open",
+      "Saturday": "Open",
+      "Sunday": "Open"
+    }
+  },
+  {
+    "parkName": "Strauss Park ",
+    "phoneNumber": "",
+    "Adress": "3534 Washington Ave, St. Louis, MO 63103",
+    "Price": "Free",
+    "WaterPark": "false",
+    "hours": {
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": "",
+      "Sunday": ""
+    }
+  },
+  {
+    "parkName": "Treecourt Unleash Dog Adventure Park",
+    "phoneNumber": "314-930-5753",
+    "Adress": "2499 Marshall Rd Valley Park, Missouri 63122",
+    "Price": {
+      "Annual":	"$360.00",
+      "Monthly": "$40.00",
+      "Quarterly": "$99.00"
+    },
+    "registrationRequired": "true",
+    "WaterPark": "false",
+    "hours": {
+      "Monday": "10AM-8PM",
+      "Tuesday": "10AM-8PM",
+      "Wednesday": "10AM-8PM",
+      "Thursday": "10AM-8PM",
+      "Friday": "10AM-8PM",
+      "Saturday": "10AM-8PM",
+      "Sunday": "10AM-8PM"
+    }
+  },
+  {
+    "parkName": "University City Dog Park",
+    "phoneNumber": "314-505-8560",
+    "Adress": "6860 Vernon Ave, University City, MO 63130",
+    "Price": "Free",
+    "registrationRequired": "false",
+    "WaterPark": "false",
+    "hours": {
+      "Monday": "5AM–10PM",
+      "Tuesday": "5AM–10PM",
+      "Wednesday": "5AM–10PM",
+      "Thursday": "5AM–10PM",
+      "Friday": "5AM–10PM",
+      "Saturday": "5AM–10PM",
+      "Sunday": "5AM–10PM"
+    }
+  },
+  {
+    "parkName": "Shaw Dog Park ",
+    "phoneNumber": "314-771-3101",
+    "Adress": "4101 Cleveland Ave, St. Louis, MO 63110",
+    "Price": {
+      "shawResident": {
+        "oneDogs": "$40 per year",
+        "twoDogs": "$45 per year",
+        "threeDogs": "$50 per year"
+      },
+      "non-resident": {
+        "oneDogs": "$65 per year",
+        "twoDogs": "$70 per year",
+        "threeDogs": "$75 per year"
+      }
+      },
+    "registrationRequired": "true",
+    "WaterPark": "false",
+    "hours": {
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": "",
+      "Sunday": ""
+    }
+  },
+  {
+    "parkName": "Gateway Arch National Park",
+    "phoneNumber": "314-655-1600",
+    "Adress": "11 N 4th St, St. Louis, MO 63102",
+    "Price": "Free",
+    "WaterPark": "false",
+    "hours": {
+      "Monday": "9AM–6PM",
+      "Tuesday": "9AM–6PM",
+      "Wednesday": "9AM–6PM",
+      "Thursday": "9AM–6PM",
+      "Friday": "9AM–6PM",
+      "Saturday": "9AM–6PM",
+      "Sunday": "9AM–6PM"
+    }
+  },
+  {
+    "parkName": "Keiner plaza",
+    "phoneNumber": "314-289-5300",
+    "Adress": "500 Chestnut St, St. Louis, MO 6310",
+    "Price": "Free",
+    "WaterPark": "false",
+    "hours": {
+      "Monday": " 6AM–10PM",
+      "Tuesday": " 6AM–10PM",
+      "Wednesday": " 6AM–10PM",
+      "Thursday": " 6AM–10PM",
+      "Friday": " 6AM–10PM",
+      "Saturday": " 6AM–10PM",
+      "Sunday": " 6AM–10PM"
+    }
+  },
+  {
+    "parkName": "Powder Valley Conservation Nature Center",
+    "phoneNumber": "314-301-1500",
+    "Adress": "11715 Cragwold Road,Kirkwood, MO 63122",
+    "Price": "Free",
+    "WaterPark": "false",
+    "hours": {
+      "Monday": "8AM-8PM",
+      "Tuesday": "8AM-8PM",
+      "Wednesday": "8AM-8PM",
+      "Thursday": "8AM-8PM",
+      "Friday": "8AM-8PM",
+      "Saturday": "8AM-8PM",
+      "Sunday": "8AM-8PM"
+    }
+  },
+  {
+    "parkName": "Sioux Passage Park ",
+    "phoneNumber": "314-615-4386",
+    "Adress": "17930 Old Jamestown Rd, Florissant, MO 63034",
+    "Price": "Free",
+    "WaterPark": "false",
+    "hours": {
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": "",
+      "Sunday": ""
+    }
+  },
+  {
+    "parkName": "Wild Bird Sanctuary ",
+    "phoneNumber": "636-225-4390",
+    "Adress": "125 Bald Eagle Ridge Rd, Valley Park, MO 63088",
+    "Price": {
+      "Adult": "",
+      "adultResident": "",
+      "Children": ""
+    },
+    "WaterPark": "false",
+    "hours": {
+      "Monday": "8AM–5PM",
+      "Tuesday": "8AM–5PM",
+      "Wednesday": "8AM–5PM",
+      "Thursday": "8AM–5PM",
+      "Friday": "8AM–5PM",
+      "Saturday": "8AM–5PM",
+      "Sunday": "8AM–5PM"
+    }
+  },
+  {
+    "parkName": "Columbia Bottom Conservation",
+    "phoneNumber": "314-877-6014",
+    "Adress": "801 Strodtman RoadSt. Louis, MO 6313",
+    "Price": "Free",
+    "WaterPark": "false",
+    "hours": "Closed from one-half-hour after sunset until one-half-hour before sunrise, except for authorized hunting, fishing and boat ramp use"
+  },
+  {
+    "parkName": "Schroeder Park",
+    "phoneNumber": "636-391-6326",
+    "Adress": "359 Old Meramec Station Road Manchester, MO 63011",
+    "Price": "Free",
+    "WaterPark": "true",
+    "hours": "Open to the public from sunrise to sunset, with the exception of the courts in Schroeder Park, which are open until 10 pm"
+  },
+  {
+    "parkName": "Cliff Cave Trails ",
+    "phoneNumber": "314-615-4386",
+    "Adress": "806 Cliff Cave Rd, St. Louis, MO 63129",
+    "Price": "Free",
+    "WaterPark": "false",
+    "hours": {
+      "Monday": "",
+      "Tuesday": "",
+      "Wednesday": "",
+      "Thursday": "",
+      "Friday": "",
+      "Saturday": "",
+      "Sunday": ""
+    }
+  },
+  {
+    "parkName": "Jefferson Barracks Park",
+    "phoneNumber": "314-615-8800",
+    "Adress": "345 North Road Saint Louis, MO 63125",
+    "Price": "Free",
+    "WaterPark": "false",
+    "hours": {
+      "Monday": "8AM–30min past sunset",
+      "Tuesday": "8AM–30min past sunset",
+      "Wednesday": "8AM–30min past sunset",
+      "Thursday": "8AM–30min past sunset",
+      "Friday": "8AM–30min past sunset",
+      "Saturday": "8AM–30min past sunset",
+      "Sunday": "8AM–30min past sunset"
+    }
+  }
+  ]
