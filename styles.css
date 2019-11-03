@@ -13,32 +13,9 @@ html {
   background-repeat: no-repeat;
 }
 
-body {
-  margin: 0;
-  height: 100vh;
-}
-
 h1 {
   font-family: "Coda Caption", sans-serif;
   text-align: center;
-  margin-top: 0px;
-  flex-grow: 0;
-}
-
-h2 {
-    text-align: center;
-}
-
-#root {
-  height: 100%;
-  display: flex;
-  flex-direction: column;
-}
-
-nav {
-  padding: calc(var(--base-spacing) * 2);
-  background: var(--nav-background);
-  color: var(--visi-text);
 }
 
 header {
@@ -48,10 +25,15 @@ header {
   flex-grow: 0;
 }
 
-div {
-  /* margin: calc(var(--base-spacing) * 20); */
+.home {
   /* display: flex; */
+  flex-grow: 1;
+}
 
+.text {
+  margin: calc(var(--base-spacing) * 20);
+  display: flex;
+flex-direction: row;
 }
 
 p {
@@ -102,7 +84,11 @@ nav .fas {
 }
 
 nav {
-min-height: 25px;
+  padding: calc(var(--base-spacing) * 2);
+  background: var(--nav-background);
+  color: var(--visi-text);
+  flex-grow: 0;
+  min-height: 25px;
 }
 
 footer {
@@ -119,14 +105,10 @@ footer {
 justify-content: space-around;
 }
 
-main {
-  display: flex;
-  flex-grow: 1;
-}
-
 .top-five {
   color:  white;
-  width: 571px;
+  width: 0;
+  height:0;
 }
 
 /* SEARCH PAGE CSS */
@@ -205,6 +187,21 @@ padding: 0px;
 /* Media queries for desktop */
 
 @media screen and (min-width: 1440px) {
+  #root {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+  }
+
+  header {
+  flex-grow: 0;
+  }
+
+  main {
+    display: flex;
+    flex-grow: 1;
+  }
+
   nav .fas {
     font-size: 0px;
   }
@@ -220,4 +217,29 @@ padding: 0px;
     justify-content: space-between;
     list-style: none;
   }
+
+  body {
+  margin: 0;
+  height: 100vh;
+}
+
+h1 {
+  margin-top: 0px;
+  flex-grow: 0;
+}
+
+h2 {
+  text-align: center;
+}
+
+.top-five {
+  color:  white;
+  width: 571px;
+  display: flex;
+}
+
+.home {
+  display: flex;
+  flex-direction: column;
+}
 }

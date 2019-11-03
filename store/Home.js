@@ -9,8 +9,8 @@ export default {
     <li><a href="./search/index.html">Search</a></li>
   </ul>
 </nav>`,
-  main: `<main>
-  <div class ="home-p">
+  main: `<main class="home">
+  <div class="text">
     <p>
       Looking to spend some time at the park? Explore St. Louis and all the
       parks St. Louis has to offer. Search our list of parks or build a park
@@ -21,7 +21,7 @@ export default {
   </div>
 
   <div class="top-five">
-    <h2>Top Five STL Parks
+    <h2>Top Five STL Parks</h2>
       <ol>
         <li></li>
         <li></li>
@@ -29,7 +29,6 @@ export default {
         <li></li>
         <li></li>
       </ol>
-    </h2>
   </div>
 
   </main>

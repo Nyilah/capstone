@@ -19,5 +19,7 @@ function render (st = state.Home) {
     render(state[event.target.textContent]);
   }));
 }
+
+
 render();
 
