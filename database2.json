@@ -65,7 +65,11 @@
       "Friday": "8AM–5:30PM",
       "Saturday": "8AM–5:30PM",
       "Sunday": "8AM–5:30PM"
-    }
+    },
+    "features": [
+      " "," ",""
+    ]
+
   },
   {
     "parkName": "Kirkwood Park",

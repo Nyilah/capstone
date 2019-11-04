@@ -111,6 +111,19 @@ justify-content: space-around;
   height:0;
 }
 
+/* CUSTOM PAGE CSS */
+input[type=checkbox] + label {
+  color: #ffffff;
+
+}
+
+form {
+  display: flex;
+    flex-direction: column;
+    border: 2px #1ed255 solid;
+    background-color: black;
+}
+
 /* SEARCH PAGE CSS */
 .search {
 margin: 0px;
