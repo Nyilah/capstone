@@ -41,6 +41,6 @@
     "@firebase/auth": "^0.12.2",
     "@firebase/database": "^0.5.10",
     "@firebase/firestore": "^1.6.2",
-    "lodash": "^4.17.15"
+    "lodash": "^4.17.21"
   }
 }
